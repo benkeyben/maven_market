@@ -24,6 +24,7 @@ The project aims to implement a comprehensive Business Intelligence (BI) solutio
   - Transformation: Cleansed, transformed, and reshaped the raw data to prepare it for analysis. Tasks include data normalization, handling missing values, and creating derived metrics.
 
   - Loading: Load the transformed data into data model view to build a relational data model. Establish relationships between different tables to facilitate cross-filtering and analysis.
+<img src="maven_market_data_model.png" alt="maven market data model" style="width:100%;"/>
 
 - DAX Calculations: Used DAX to create calculated columns and measures necessary for KPI tracking, regional comparison, trend analysis, and customer segmentation. Some of the most vital columns and measures include
   -  Calculated Columns:
